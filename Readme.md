@@ -11,7 +11,7 @@ NOTES:
 - Laser modules even at same wavelength and power level may have different lens configuration and collimation, so you need to do some calibration to get consistent results with different laser modules. 
 - The stereolithographic files STL in 3D models libraries can be easily printed with common FDM 3D printer and filaments, however make sure to avoid to use transparent materials that could make filter external light in analysis chamber, this is very important. (I have used black PLA to print my prototype.)
 
-Check PDF documentation for more details.
+Check [PDF documentation](https://github.com/SMH17/EVOTest/blob/main/EVOTest.pdf) for more details.
 
 
 Version: 0.1a
