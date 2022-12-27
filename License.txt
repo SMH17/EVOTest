@@ -1,0 +1,7 @@
+The project is shared as is. I’m not responsible of any improper use, and I’m not responsible to provide any warranty. 
+
+The project is shared for hobbyists, researchers and students under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license. 
+This license allows users to distribute, remix, adapt, and build upon your work non-commercially, as long as they give appropriate credit, provide a link to the license, and share derivative works and modifications they make under the same terms.
+License Link: http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+For any other use that doesn't fit the above category, contact me using the module on my website http://silviomarano.tk 
